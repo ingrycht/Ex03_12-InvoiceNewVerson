@@ -92,7 +92,7 @@ public class Invoice
         
         return invoiceDescription;
     
-    }
+    }//end toString method
     
     
 
